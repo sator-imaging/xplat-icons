@@ -25,5 +25,5 @@ jobs:
         # Required ONLY for the new package.
         # Set Trusted Publishing after first-time publish
         # and comment out the below.
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+        #env:
+        #  NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
