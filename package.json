@@ -1,6 +1,6 @@
 {
   "name": "xplat-icons",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate cross-platform app and web icon assets from a square PNG.",
   "type": "module",
   "bin": {
