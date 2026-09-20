@@ -1,0 +1,47 @@
+{
+  "name": "xplat-icons",
+  "version": "1.0.0",
+  "description": "Generate cross-platform app and web icon assets from a square PNG.",
+  "type": "module",
+  "bin": {
+    "xplat-icons": "./dist/cli.js"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "bun build ./src/cli.ts --target=bun --minify --banner=\"#!/usr/bin/env bun\" --outfile=./dist/cli.js",
+    "prepack": "bun run build"
+  },
+  "engines": {
+    "bun": ">=1.4.0"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/sator-imaging"
+  },
+  "author": {
+    "name": "sator-imaging",
+    "url": "https://x.com/sator_imaging"
+  },
+  "homepage": "https://x.com/sator_imaging",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sator-imaging/xplat-icons"
+  },
+  "license": "MIT",
+  "keywords": [
+    "cross-platform",
+    "xplat",
+    "icon",
+    "icons",
+    "icns",
+    "favicon",
+    "win",
+    "windows",
+    "mac",
+    "macos",
+    "apple",
+    "linux"
+  ]
+}
