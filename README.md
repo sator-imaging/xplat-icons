@@ -2,7 +2,7 @@
 
 # xplat-icons
 
-正方形の PNG 画像から、Windows、macOS、Linux、Web、PWA（Progressive Web App）向けのアイコンセットを生成
+Windows、macOS、Linux、Web、PWA（Progressive Web App）向けのアイコンを一括生成
 
 [![npm](https://img.shields.io/npm/v/xplat-icons)](https://www.npmjs.com/package/xplat-icons)
 
