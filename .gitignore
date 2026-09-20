@@ -4,9 +4,9 @@ node_modules
 
 !.github
 !src
-!package*.json
 
 !.gitignore
+!package*.json
 
 *.md
 !CHANGELOG.md

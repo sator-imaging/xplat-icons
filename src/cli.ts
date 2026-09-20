@@ -3,10 +3,9 @@ import { resolve } from "node:path";
 import { createInterface } from "node:readline/promises";
 
 const USAGE = `\
-Generates the app's PNG, ICO, and ICNS icon set from a square source PNG.
+Generate cross-platform app and web icon assets from a square PNG.
 
 Usage:
-  bunx xplat-icons <path/to/source.png> <path/to/output-folder>
   npx xplat-icons <path/to/source.png> <path/to/output-folder>
 `;
 
