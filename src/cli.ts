@@ -3,7 +3,7 @@ import { resolve } from "node:path";
 import { createInterface } from "node:readline/promises";
 
 const USAGE = `\
-Generate cross-platform app and web icon assets from a square PNG.
+Generate icon assets for Windows, macOS, Linux, Web, and PWA (Progressive Web App) in one go.
 
 Usage:
   npx xplat-icons <path/to/source.png> <path/to/output-folder>
