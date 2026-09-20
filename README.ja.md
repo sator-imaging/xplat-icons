@@ -5,6 +5,10 @@
 Windows、macOS、Linux、Web、PWA（Progressive Web App）向けのアイコンを一括生成
 
 [![npm](https://img.shields.io/npm/v/xplat-icons)](https://www.npmjs.com/package/xplat-icons)
+&nbsp;
+[![🇯🇵](https://img.shields.io/badge/🇯🇵-日本語-789)](./README.ja.md)
+[![🇨🇳](https://img.shields.io/badge/🇨🇳-简体中文-789)](./README.zh-CN.md)
+[![🇺🇸](https://img.shields.io/badge/🇺🇸-English-789)](./README.md)
 
 </div>
 
