@@ -1,7 +1,7 @@
 {
   "name": "xplat-icons",
   "version": "1.0.1",
-  "description": "Generate cross-platform app and web icon assets from a square PNG.",
+  "description": "Generate icon assets for Windows, macOS, Linux, Web, and PWA (Progressive Web App) in one go.",
   "type": "module",
   "bin": {
     "xplat-icons": "./dist/cli.js"
