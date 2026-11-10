@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.0.2](https://github.com/sator-imaging/xplat-icons/releases/tag/v1.0.2) (2026-11-10)
+
+### 📚 Other Changes
+* chore by [@sator-imaging](https://github.com/sator-imaging) in [#5](https://github.com/sator-imaging/xplat-icons/pull/5)
+* ci: `gh actions-lock` by [@sator-imaging](https://github.com/sator-imaging) in [#6](https://github.com/sator-imaging/xplat-icons/pull/6)
+
+### 🎉 New Contributors
+* [@sator-imaging](https://github.com/sator-imaging) made their first contribution in [#5](https://github.com/sator-imaging/xplat-icons/pull/5)
+
+**Full Changelog**: https://github.com/sator-imaging/xplat-icons/compare/v1.0.1...v1.0.2
+
+
 ## [1.0.1](https://github.com/sator-imaging/xplat-icons/releases/tag/v1.0.1) (2026-09-20)
 
 ### 📖 Documentation
