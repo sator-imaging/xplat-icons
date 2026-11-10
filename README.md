@@ -17,7 +17,7 @@ Generate icon assets for Windows, macOS, Linux, Web, and PWA (Progressive Web Ap
 Bun 1.4 or later is required. Bun is used whether you launch it with `npx` or `bunx`.
 
 ```sh
-npx xplat-icons <path/to/source.png> <path/to/output-folder>
+bunx xplat-icons <path/to/source.png> <path/to/output-folder>
 ```
 
 ## Output Files
