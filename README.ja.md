@@ -17,7 +17,7 @@ Windows、macOS、Linux、Web、PWA（Progressive Web App）向けのアイコ�
 Bun 1.4 以降が必要です。`npx` と `bunx` のどちらで起動する場合も Bun を使用します。
 
 ```sh
-npx xplat-icons <path/to/source.png> <path/to/output-folder>
+bunx xplat-icons <path/to/source.png> <path/to/output-folder>
 ```
 
 ## 出力ファイル

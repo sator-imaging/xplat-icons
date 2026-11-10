@@ -17,7 +17,7 @@
 需要 Bun 1.4 或更高版本。无论使用 `npx` 还是 `bunx` 启动，都会使用 Bun。
 
 ```sh
-npx xplat-icons <path/to/source.png> <path/to/output-folder>
+bunx xplat-icons <path/to/source.png> <path/to/output-folder>
 ```
 
 ## 输出文件
