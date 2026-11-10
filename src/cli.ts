@@ -6,7 +6,7 @@ const USAGE = `\
 Generate icon assets for Windows, macOS, Linux, Web, and PWA (Progressive Web App) in one go.
 
 Usage:
-  bunxbunx xplat-icons <path/to/source.png> <path/to/output-folder>
+  bunx xplat-icons <path/to/source.png> <path/to/output-folder>
 `;
 
 // Keep these packaging names aligned with the app's icon manifest expectations.
